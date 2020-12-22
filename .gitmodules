@@ -1,0 +1,3 @@
+[submodule "Assets/Refs/Tree_Core"]
+	path = Assets/Refs/Tree_Core
+	url = https://github.com/Reavenk/Tree_Core.git
